@@ -15,6 +15,15 @@ body{
   width: 1045px; 
   transition: all 400ms ease-in-out;
 }
+#adssteps{
+  width: 500px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+#adsouter-container{
+  width: 1045px; 
+  transition: all 400ms ease-in-out;
+}
 #signup, #card{
   width: 500px;
   display: inline-block;
