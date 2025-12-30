@@ -56,6 +56,12 @@ body{
 	display: block;
 	align-self: flex-end;
 }
+.container {
+	width: 90%;
+	margin: 0 auto;
+	overflow: none;
+	padding: 10px;
+}
 
 
 #signup, #card{
