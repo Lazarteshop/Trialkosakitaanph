@@ -15,55 +15,6 @@ body{
   width: 1045px; 
   transition: all 400ms ease-in-out;
 }
-#adssteps{
-  width: 500px;
-  margin: 0 auto;
-  overflow: hidden;
-}
-#adsouter-container{
- 
- width: 1045px; 
-  transition: all 400ms ease-in-out;
-} 
-.grid {
-	display: grid;
-	grid-template-columns: repeat(2, 1fr);
-	grid-gap: 10px;
-}
-
-.grid .item {
-	display: flex;
-	flex-direction: column;
-	border: 1px #ccc solid;
-	padding: 10px;
-	box-shadow: 1px 1px 2px #ccc;
-}
-
-.grid .item h4 {
-	margin-bottom: 5px;
-}
-
-.grid .item p {
-	font-size: 14px;
-	color: var(--secondary-color);
-	font-weight: bold;
-	margin-bottom: 20px;
-}
-
-.grid .item img {
-	width: 30px;
-	text-align: right;
-	display: block;
-	align-self: flex-end;
-}
-.container {
-	width: 90%;
-	margin: 0 auto;
-	overflow: none;
-	padding: 10px;
-}
-
-
 #signup, #card{
   width: 500px;
   display: inline-block;
